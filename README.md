@@ -1,4 +1,5 @@
 # Computer-Vision-Course
+Tasks from the computer vision course at the open university\
 
 Canny_edge_detector.py &nbsp;  - Use Canny edge detector on a selected picture.\
 Harris_corner_detector.py	- Use Harris corner detector on a selected picture.\
