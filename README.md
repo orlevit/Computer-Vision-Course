@@ -1,6 +1,6 @@
 # Computer-Vision-Course
 
-Canny_edge_detector.py &nbsp;&nbsp;  - Use Canny edge detector on a selected picture.\
+Canny_edge_detector.py &nbsp;  - Use Canny edge detector on a selected picture.\
 Harris_corner_detector.py	- Use Harris corner detector on a selected picture.\
 SIFT_finder.py	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - Use SIFT finder on a selected picture.\
 Matching_points.py	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Match points from two different pictures of common scene\
